@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>16 Colors</title>
+    <link href="https://16colors.com/feed.xml" rel="self" />
+    <link href="https://16colors.com" />
+    <updated>2025-02-15T18:10:44-06:00</updated>
+    <author>
+        <name>Eli Weed</name>
+    </author>
+    <id>https://16colors.com</id>
+
+    <entry>
+        <title>Unused Bits for Sonic on the Sega Master System</title>
+        <author>
+            <name>Eli Weed</name>
+        </author>
+        <link href="https://16colors.com/sonic-games-on-the-sega-master-system.html"/>
+        <id>https://16colors.com/sonic-games-on-the-sega-master-system.html</id>
+        <media:content url="https://16colors.com/media/posts/1/LAUGH.gif" medium="image" />
+
+        <updated>2025-02-15T16:35:27-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://16colors.com/media/posts/1/LAUGH.gif" alt="" />
+                    There are a few Sonic the Hedgehog games on the SMS, like Sonic 1, 2, and Triple Trouble. As you saw earlier, one of the Sonic 2 unused sprites was a laughing sprite in the autodemo. For whatever reason, SEGA wanted that in there. Another&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://16colors.com/media/posts/1/LAUGH.gif" class="type:primaryImage" alt="" /></p>
+                <p>There are a few Sonic the Hedgehog games on the SMS, like Sonic 1, 2, and Triple Trouble. As you saw earlier, one of the Sonic 2 unused sprites was a laughing sprite in the autodemo. For whatever reason, SEGA wanted that in there.</p>
+<p>Another Sonic 2 oddity was Sonic tapping his foot when he's bored, instead of shrugging at the player. Tails was also, when you rescued him, supposed to yawn and rub his eyes while waiting.</p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://16colors.com/media/posts/1/gallery/TapTap.gif" data-size="320x340"><img loading="lazy" src="https://16colors.com/media/posts/1/gallery/TapTap.gif" alt=""></a>
+<figcaption>"Hello?"</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://16colors.com/media/posts/1/gallery/SHRUG.gif" data-size="250x320"><img loading="lazy" src="https://16colors.com/media/posts/1/gallery/SHRUG.gif" alt=""></a>
+<figcaption>"Are we gonna play the game?"</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://16colors.com/media/posts/1/gallery/LAUGH.gif" data-size="320x320"><img loading="lazy" src="https://16colors.com/media/posts/1/gallery/LAUGH.gif" alt=""></a>
+<figcaption>"Hahahahahahahahahahahahahahahahahahahahahaha"</figcaption>
+</figure>
+</div></div>
+<p>In Sonic Triple Trouble, Fang the Sniper had many different names. Fang the Sniper, Nack the Weasel, Nack the Wolf, and many others. Fang was also supposed to have an actual gun, not the popgun we see today.</p>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://static.wikia.nocookie.net/sonic/images/e/e1/Stt_TTBeta.jpg/revision/latest?cb=20101115095643" width="345" height="199" data-is-external-image="true">
+<figcaption >Getting a little violent, aren't we?</figcaption>
+</figure>
+<p>Sonic Chaos' Sonic had many color palette changes during development, as did Tails.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

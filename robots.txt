@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://16colors.com/sitemap.xml
