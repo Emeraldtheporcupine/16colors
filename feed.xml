@@ -3,7 +3,7 @@
     <title>16 Colors</title>
     <link href="https://emeraldtheporcupine.github.io/16colors/feed.xml" rel="self" />
     <link href="https://emeraldtheporcupine.github.io/16colors" />
-    <updated>2025-02-15T18:10:44-06:00</updated>
+    <updated>2025-02-15T23:22:28-06:00</updated>
     <author>
         <name>Eli Weed</name>
     </author>
@@ -14,9 +14,11 @@
         <author>
             <name>Eli Weed</name>
         </author>
-        <link href="https://emeraldtheporcupine.github.io/16colors/sonic-games-on-the-sega-master-system.html"/>
-        <id>https://emeraldtheporcupine.github.io/16colors/sonic-games-on-the-sega-master-system.html</id>
+        <link href="https://emeraldtheporcupine.github.io/16colors/sonic-games-on-the-sega-master-system/"/>
+        <id>https://emeraldtheporcupine.github.io/16colors/sonic-games-on-the-sega-master-system/</id>
         <media:content url="https://emeraldtheporcupine.github.io/16colors/media/posts/1/LAUGH.gif" medium="image" />
+            <category term="sonic"/>
+            <category term="pixelart"/>
 
         <updated>2025-02-15T16:35:27-06:00</updated>
             <summary>
@@ -38,13 +40,11 @@
 <figcaption>"Are we gonna play the game?"</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://emeraldtheporcupine.github.io/16colors/media/posts/1/gallery/LAUGH.gif" data-size="320x320"><img loading="lazy" src="https://emeraldtheporcupine.github.io/16colors/media/posts/1/gallery/LAUGH.gif" alt=""></a>
-<figcaption>"Hahahahahahahahahahahahahahahahahahahahahaha"</figcaption>
+<figcaption>"Huhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhuhu."</figcaption>
 </figure>
 </div></div>
 <p>In Sonic Triple Trouble, Fang the Sniper had many different names. Fang the Sniper, Nack the Weasel, Nack the Wolf, and many others. Fang was also supposed to have an actual gun, not the popgun we see today.</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://static.wikia.nocookie.net/sonic/images/e/e1/Stt_TTBeta.jpg/revision/latest?cb=20101115095643" width="345" height="199" data-is-external-image="true">
-<figcaption >Getting a little violent, aren't we?</figcaption>
-</figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://emeraldtheporcupine.github.io/16colors/media/posts/1/Stt_TTBeta.webp" alt="" width="345" height="199" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://emeraldtheporcupine.github.io/16colors/media/posts/1/responsive/Stt_TTBeta-xs.webp 640w ,https://emeraldtheporcupine.github.io/16colors/media/posts/1/responsive/Stt_TTBeta-sm.webp 768w ,https://emeraldtheporcupine.github.io/16colors/media/posts/1/responsive/Stt_TTBeta-md.webp 1024w ,https://emeraldtheporcupine.github.io/16colors/media/posts/1/responsive/Stt_TTBeta-lg.webp 1366w ,https://emeraldtheporcupine.github.io/16colors/media/posts/1/responsive/Stt_TTBeta-xl.webp 1600w ,https://emeraldtheporcupine.github.io/16colors/media/posts/1/responsive/Stt_TTBeta-2xl.webp 1920w"></figure>
 <p>Sonic Chaos' Sonic had many color palette changes during development, as did Tails.</p>
 <p> </p>
 <p> </p>
